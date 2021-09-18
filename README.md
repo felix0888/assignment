@@ -9,6 +9,7 @@ Background: Lido is a protocol that lets users stake their ETH in the Ethereum 2
 When you have finished, please submit a pull request. Your submission will be judged based on functionality, documentation, and test coverage. We recommend spending no more than three hours on this assignment.
 
 <hr/>
+
 ## Lido Ethereum Liquid Staking Protocol
 
 [![Tests](https://github.com/lidofinance/lido-dao/workflows/Tests/badge.svg)](https://github.com/lidofinance/lido-dao/actions)
