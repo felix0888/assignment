@@ -2,9 +2,9 @@
 
 Background: Lido is a protocol that lets users stake their ETH in the Ethereum 2.0 Beacon Chain and provides them with stETH. stETH is an interest bearing version of ETH, meaning users who hold it will see their balance increase over time. For this assignment, you will:
 * Deploy Lido either on a testnet or local blockchain (see below documentation)
-* Write a Javascript function that allows the user to deposit ETH and gives them stETH in return
-* Write test cases for this function
-* Add a new section in this file that describes your process
+* Write a Javascript function that allows the user to deposit ETH and gives them stETH in return by interacting with the Lido contracts you've deployed (see [Lido](contracts/0.4.24/Lido.sol))
+* Write test cases for this function in a language / framework of your choice
+* Add a new section in this file that describes your process clearly enough to replicate
  
 When you have finished, please submit a pull request. Your submission will be judged based on functionality, documentation, and test coverage. We recommend spending no more than three hours on this assignment.
 
